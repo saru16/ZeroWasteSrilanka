@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "190290939037",
+    "firebase_url": "https://zerowastesrilankaapp.firebaseio.com",
+    "project_id": "zerowastesrilankaapp",
+    "storage_bucket": "zerowastesrilankaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190290939037:android:321af7620249a486",
+        "android_client_info": {
+          "package_name": "com.example.dell.zerowastesrilanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190290939037-amg2brktissqg7564uuokdm8lqn2m5mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.zerowastesrilanka",
+            "certificate_hash": "f65c3fdedaa08c436b5c257b8c1803ee96e7b4f1"
+          }
+        },
+        {
+          "client_id": "190290939037-8ng56jasagfoi59h4c30nprl6in3hgnb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "190290939037-8ng56jasagfoi59h4c30nprl6in3hgnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDUgYe1QIoU_wLmT1LFEIqM_c1sDxvmh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190290939037-8ng56jasagfoi59h4c30nprl6in3hgnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
